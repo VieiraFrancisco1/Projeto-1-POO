@@ -12,4 +12,4 @@ def main():
     print("Saldo via getter:", cliente1.get_saldo())
 
 if __name__ == "__main__":
-    main()
+    main() 
