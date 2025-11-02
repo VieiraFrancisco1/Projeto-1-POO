@@ -34,4 +34,4 @@ class Cliente:
         return self.__idade
 
     def get_saldo(self):
-        return self.__saldo
+        return self.__saldo 

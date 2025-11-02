@@ -21,7 +21,7 @@ No código original estruturado, temos uma aplicação simples para armazenar e 
 ```python
 # Variáveis globais
 nome_cliente = "João Silva"
-idade_cliente = 30
+idade_cliente = 30 
 saldo_cliente = 1000.0
 
 # Função para exibir as informações do cliente
